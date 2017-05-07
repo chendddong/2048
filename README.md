@@ -9,7 +9,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/chendddong/2048/blob/master/SS.png" alt="Screenshot"/>
+  <img src="https://github.com/chendddong/2048/blob/master/SS1.png" alt="Screenshot"/>
 </p>
 
 
